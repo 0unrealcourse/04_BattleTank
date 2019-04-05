@@ -4,3 +4,4 @@ An open-world head-to-head fight with simple AI, terrain, and advanced control s
 
 ## Commits
 * Created repository and added README file
+* Setting Up a GitHub "Repo"
